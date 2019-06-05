@@ -1,3 +1,7 @@
-# This is Yifeng's branch
+# COGS 108 Final Project
 
-I have finishes the cosine similarity and reach accuracy about 0.56
+Master branch last updated by Yifeng
+1.finished the cosine similarity.
+2.finished the classic predicting method with creating
+a dataframe of each user's average rating on each genre
+and the number of films each user watches on each genre 
